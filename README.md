@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CV one-word domains still available to buy.
 
-This dataset contains 4,327 .CV one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,364 .CV one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CV one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cv-oneword-domains&utm_content=description.top) (4,064) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,14 +13,16 @@ If you want to search & filters the complete database of [.CV one word domains](
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/cv-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/cv-oneword-domains/blob/main/cv.csv"><b>⬇️ CSV (4.33K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/cv-oneword-domains/blob/main/cv.json"><b>⬇️ JSON (4.33K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/cv-oneword-domains/blob/main/cv.csv"><b>⬇️ CSV (4.36K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/cv-oneword-domains/blob/main/cv.json"><b>⬇️ JSON (4.36K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cv-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.06K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain        | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
+| aaa.cv        | available | 70       | 38%    | 3      |           |         |         |
+| aaron.cv      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.cv  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.cv      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.cv  | available | 58       | 10%    | 9      |           |         |         |
@@ -43,19 +45,17 @@ If you want to search & filters the complete database of [.CV one word domains](
 | abhorrent.cv  | available | 54       | 1%     | 9      |           |         |         |
 | abiding.cv    | premium   | 106      | 5%     | 7      |           |         |         |
 | abient.cv     | available | 54       | 1%     | 6      |           |         |         |
+| ability.cv    | available | 92       | null%  | 7      |           |         |         |
 | abit.cv       | available | 66       | 16%    | 5      |           |         |         |
 | abject.cv     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.cv     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.cv  | available | 78       | 1%     | 9      |           |         |         |
 | abkhaz.cv     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.cv  | available | 78       | 1%     | 9      |           |         |         |
-| ablated.cv    | available | 52       | 2%     | 7      |           |         |         |
-| ablative.cv   | available | 68       | 3%     | 8      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/cv-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/cv-oneword-domains/blob/main/cv.csv"><b>⬇️ CSV (4.33K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/cv-oneword-domains/blob/main/cv.json"><b>⬇️ JSON (4.33K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/cv-oneword-domains/blob/main/cv.csv"><b>⬇️ CSV (4.36K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/cv-oneword-domains/blob/main/cv.json"><b>⬇️ JSON (4.36K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cv-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.06K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
