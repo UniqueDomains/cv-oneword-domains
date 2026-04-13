@@ -73,11 +73,11 @@ print(df.head())
 | industrial.cv | available | $14.98    | —             | 62             | 25     | 10     | namecheap        |
 | smart.cv      | resell    | —         | —             | 74             | 56     | 5      | Marcaria.com LLC |
 | live.cv       | premium   | $651.53   | $87.75        | 108            | 56     | 4      | namecheap        |
-| concert.cv    | available | $14.98    | —             | 106            | 23     | 7      | namecheap        |
+| thermal.cv    | available | $14.98    | —             | 60             | 25     | 7      | namecheap        |
 | data.cv       | resell    | —         | —             | 70             | 56     | 4      | Marcaria.com LLC |
 | business.cv   | premium   | $1,301.53 | $9.75         | 100            | 53     | 8      | namecheap        |
-| thermal.cv    | available | $14.98    | —             | 60             | 23     | 7      | namecheap        |
-| design.cv     | resell    | —         | —             | 108            | 50     | 6      | apitestregistrar |
+| concert.cv    | available | $14.98    | —             | 106            | 23     | 7      | namecheap        |
+| design.cv     | resell    | —         | —             | 108            | 49     | 6      | apitestregistrar |
 | art.cv        | premium   | $1,301.53 | $87.75        | 90             | 52     | 3      | namecheap        |
 | patient.cv    | available | $14.98    | —             | 68             | 22     | 7      | namecheap        |
 | create.cv     | resell    | —         | —             | 107            | 49     | 6      | apitestregistrar |
