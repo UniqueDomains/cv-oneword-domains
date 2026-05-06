@@ -455,6 +455,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2898f374-2712-4161-aac3-741c5ccfa1dc,perks.cv,premium,150.5,94.5,62,19,5,namecheap,,
 289b7e56-a3a5-4569-be37-5ca6dbf82102,comeinuseful.cv,available,14.98,,68,0,14,namecheap,,
 28a7e47b-c499-43d9-8b9e-dccb470fae9e,limits.cv,premium,94.5,10.5,55,11,6,namecheap,,
+28dd5321-c3f7-4b59-82b6-a003209171e5,oxygen.cv,resell,,,89,28,6,Dynadot,02/12/2024 14:45,02/12/2026 14:45
 28e93044-c897-4f67-b0f4-691770cb82f3,setforth.cv,available,14.98,,72,4,9,namecheap,,
 29045fc8-388e-4600-9ce3-c5f850a60b1c,flips.cv,premium,137.6,80.33,52,12,5,namesilo,,
 29343650-42a0-4cda-8438-9abe435e1550,hammerout.cv,available,14.98,,70,1,10,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5ab9dec8-2156-4e42-a9a1-5c6a67ab988e,goupstairs.cv,available,14.98,,68,1,11,namecheap,,
 5ac16266-a7c9-4cdb-ab6d-a6336de919d3,CountyofMitchell.cv,available,9.99,9.99,42,0,18,namesilo,,
 5ad7492c-9dd3-4dd2-b57e-7937c491f4cf,getoneselftogether.cv,available,14.98,,49,1,20,namecheap,,
-5ae670bf-967a-4797-9578-1547bb1d3acd,ohmygoodness.cv,available,14.98,,50,4,14,namecheap,,

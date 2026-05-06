@@ -1,10 +1,10 @@
-# Available .CV One-Word Domains (12,068)
+# Available .CV One-Word Domains (12,071)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C068%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C071%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cv one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,068 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,071 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,068 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,071 domains · **Median ask:** $115.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/cv`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| pierogi.cv      | available | $14.98    | —             | 82             | 7      | 7      | namecheap |
+| getlife.cv      | available | $14.98    | —             | 80             | 5      | 8      | namecheap |
+| leaveon.cv      | available | $14.98    | —             | 80             | 1      | 8      | namecheap |
+| fitinto.cv      | available | $14.98    | —             | 84             | 2      | 8      | namecheap |
+| keepfit.cv      | available | $14.98    | —             | 86             | 9      | 8      | namecheap |
+| dogstail.cv     | available | $14.98    | —             | 94             | 1      | 8      | namecheap |
+| backyard.cv     | available | $14.98    | —             | 80             | 27     | 9      | namecheap |
+| bedframe.cv     | available | $14.98    | —             | 80             | 3      | 9      | namecheap |
+| flaxseed.cv     | available | $14.98    | —             | 80             | 4      | 9      | namecheap |
+| cometrue.cv     | available | $14.98    | —             | 82             | 5      | 9      | namecheap |
+| getiton.cv      | available | $14.98    | —             | 84             | 3      | 9      | namecheap |
+| getlucky.cv     | available | $14.98    | —             | 84             | 10     | 9      | namecheap |
+| turninto.cv     | available | $14.98    | —             | 86             | 2      | 9      | namecheap |
 | neuroscience.cv | available | $14.98    | —             | 80             | 37     | 12     | namecheap |
 | farmers.cv      | resell    | —         | —             | 54             | 59     | 7      | Dynadot   |
 | Chanel.cv       | premium   | $150.50   | $10.50        | 80             | 77     | 6      | namecheap |
-| backyard.cv     | available | $14.98    | —             | 80             | 27     | 9      | namecheap |
 | united.cv       | resell    | —         | —             | 74             | 41     | 6      | Dynadot   |
 | cars.cv         | premium   | $710.50   | $94.50        | 66             | 47     | 4      | namecheap |
 | coupons.cv      | available | $9.99     | $9.99         | 52             | 24     | 7      | namesilo  |
 | vertical.cv     | resell    | —         | —             | 70             | 33     | 8      | Dynadot   |
-| coins.cv        | premium   | $150.50   | $94.50        | 56             | 41     | 5      | namecheap |
-| motorsport.cv   | available | $14.98    | —             | 74             | 23     | 10     | namecheap |
-| strong.cv       | resell    | —         | —             | 72             | 28     | 6      | Dynadot   |
-| WiFi.cv         | premium   | $710.50   | $94.50        | 83             | 37     | 5      | namecheap |
-| veterans.cv     | available | $14.98    | —             | 56             | 23     | 8      | namecheap |
-| bounce.cv       | resell    | —         | —             | 80             | 24     | 6      | Dynadot   |
-| etc.cv          | premium   | $1,410.50 | $94.50        | 58             | 34     | 3      | namecheap |
-| webshop.cv      | available | $14.98    | —             | 76             | 22     | 8      | namecheap |
-| networks.cv     | resell    | —         | —             | 60             | 20     | 8      | Spaceship |
-| popup.cv        | premium   | $150.50   | $94.50        | 84             | 29     | 6      | namecheap |
-| origins.cv      | available | $14.98    | —             | 46             | 22     | 7      | namecheap |
-| alternatives.cv | resell    | —         | —             | 58             | 13     | 12     | Spaceship |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,068 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,071 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of .cv domains, with a wide mix of dictionary words, phrases, food terms, lifestyle terms, and brandable combinations such as edamame.cv, pierogi.cv, watches.cv, getlife.cv, and lightup.cv. For founders, the main question is whether a name is memorable, easy to say, and specific enough to own with confidence. For investors, the focus is whether the ask leaves room for a sensible deal and whether the word has broad buyer appeal. Median ask is 115.23, which makes price discipline important, but naming quality still matters more than volume alone.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All names in this selection use the .cv extension
+- Median ask across the set is 115.23
+- Styles range from dictionary words to phrase brands
+- Check wording for memorability and trademark friction
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CV One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CV One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
