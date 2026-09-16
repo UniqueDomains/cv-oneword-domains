@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cv one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,203 domains · **Median ask:** $142.47 · **High-demand under $2,500:** 73
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/tld/cv`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,9 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| great.cv      | resell    | —         | —             | high           | low    | 5      | apitestregistrar |
+| time.cv       | premium   | $649.60   | $80.33        | high           | medium | 4      | namesilo         |
+| bang.cv       | premium   | $649.60   | $80.33        | high           | low    | 4      | namesilo         |
 | abroach.cv    | available | $9.99     | $9.99         | low            | low    | 7      | namesilo         |
 | realestate.cv | resell    | $14.98    | —             | medium         | medium | 11     | Porkbun          |
 | bid.cv        | premium   | $1,339.98 | $80.33        | high           | low    | 3      | namesilo         |
@@ -71,7 +74,6 @@ print(df.head())
 | brand.cv      | resell    | —         | —             | medium         | medium | 5      | apitestregistrar |
 | big.cv        | premium   | $1,339.98 | $80.33        | high           | medium | 3      | namesilo         |
 | acapnic.cv    | available | $9.99     | $9.99         | low            | low    | 7      | namesilo         |
-| great.cv      | resell    | —         | —             | high           | low    | 5      | apitestregistrar |
 | buy.cv        | premium   | $2,609.75 | $87.75        | medium         | medium | 3      | namecheap        |
 | achaian.cv    | available | $9.99     | $9.99         | low            | low    | 7      | namesilo         |
 | primer.cv     | resell    | —         | —             | medium         | low    | 6      | OlaCV Registrar  |
@@ -82,8 +84,6 @@ print(df.head())
 | aeolian.cv    | available | $9.99     | $9.99         | low            | low    | 7      | namesilo         |
 | medical.cv    | resell    | —         | —             | high           | low    | 7      | Porkbun          |
 | dip.cv        | premium   | $1,410.50 | $94.50        | high           | low    | 3      | namecheap        |
-| affable.cv    | available | $9.99     | $9.99         | high           | low    | 7      | namesilo         |
-| morning.cv    | resell    | —         | —             | high           | low    | 7      | Dynadot          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CV One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CV One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
