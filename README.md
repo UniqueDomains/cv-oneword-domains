@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cv one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,769 domains · **Median ask:** $143.85 · **High-demand under $2,500:** 72
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/cv`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| abroach.cv    | available | $9.99     | $9.99         | low            | low    | 7      | namesilo         |
-| realestate.cv | resell    | $14.98    | —             | medium         | medium | 11     | Porkbun          |
-| bid.cv        | premium   | $1,339.98 | $80.33        | high           | low    | 3      | namesilo         |
-| abusive.cv    | available | $9.99     | $9.99         | low            | low    | 7      | namesilo         |
-| brand.cv      | resell    | —         | —             | medium         | medium | 5      | apitestregistrar |
-| big.cv        | premium   | $1,339.98 | $80.33        | high           | medium | 3      | namesilo         |
-| acapnic.cv    | available | $9.99     | $9.99         | low            | low    | 7      | namesilo         |
-| great.cv      | resell    | —         | —             | high           | low    | 5      | apitestregistrar |
-| buy.cv        | premium   | $2,609.75 | $87.75        | medium         | medium | 3      | namecheap        |
-| achaian.cv    | available | $9.99     | $9.99         | low            | low    | 7      | namesilo         |
-| primer.cv     | resell    | —         | —             | medium         | low    | 6      | OlaCV Registrar  |
-| cot.cv        | premium   | $1,339.98 | $80.33        | high           | low    | 3      | namesilo         |
-| advised.cv    | available | $9.99     | $9.99         | low            | low    | 7      | namesilo         |
-| healing.cv    | resell    | —         | —             | high           | low    | 7      | Dynadot          |
-| cow.cv        | premium   | $1,339.98 | $80.33        | high           | low    | 3      | namesilo         |
-| aeolian.cv    | available | $9.99     | $9.99         | low            | low    | 7      | namesilo         |
-| medical.cv    | resell    | —         | —             | high           | low    | 7      | Porkbun          |
-| dip.cv        | premium   | $1,410.50 | $94.50        | high           | low    | 3      | namecheap        |
-| affable.cv    | available | $9.99     | $9.99         | high           | low    | 7      | namesilo         |
-| morning.cv    | resell    | —         | —             | high           | low    | 7      | Dynadot          |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| abroach.cv    | available | $9.99     | $9.99         | low            | low    | 7      | namesilo        |
+| realestate.cv | resell    | $14.98    | —             | medium         | medium | 11     | Porkbun         |
+| bid.cv        | premium   | $1,339.98 | $80.33        | high           | low    | 3      | namesilo        |
+| abusive.cv    | available | $9.99     | $9.99         | low            | low    | 7      | namesilo        |
+| brand.cv      | resell    | —         | —             | medium         | low    | 5      | hello.cv        |
+| big.cv        | premium   | $1,339.98 | $80.33        | high           | medium | 3      | namesilo        |
+| acapnic.cv    | available | $9.99     | $9.99         | low            | low    | 7      | namesilo        |
+| great.cv      | resell    | —         | —             | high           | low    | 5      | hello.cv        |
+| buy.cv        | premium   | $2,770.35 | $80.33        | medium         | low    | 3      | namesilo        |
+| achaian.cv    | available | $9.99     | $9.99         | low            | low    | 7      | namesilo        |
+| primer.cv     | resell    | —         | —             | medium         | low    | 6      | OlaCV Registrar |
+| cot.cv        | premium   | $1,339.98 | $80.33        | high           | low    | 3      | namesilo        |
+| advised.cv    | available | $9.99     | $9.99         | low            | low    | 7      | namesilo        |
+| healing.cv    | resell    | —         | —             | high           | low    | 7      | Dynadot         |
+| cow.cv        | premium   | $1,339.98 | $80.33        | high           | low    | 3      | namesilo        |
+| aeolian.cv    | available | $9.99     | $9.99         | low            | low    | 7      | namesilo        |
+| morning.cv    | resell    | —         | —             | high           | low    | 7      | Dynadot         |
+| dip.cv        | premium   | $1,410.50 | $94.50        | high           | low    | 3      | namecheap       |
+| affable.cv    | available | $9.99     | $9.99         | high           | low    | 7      | namesilo        |
+| hangout.cv    | resell    | —         | —             | high           | low    | 8      | Dynadot         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CV One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CV One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
