@@ -1,10 +1,10 @@
-# Available .CV One-Word Domains (13,559)
+# Available .CV One-Word Domains (22,179)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C559%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C179%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cv one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **13,559 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,179 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 13,559 domains · **Median ask:** $191.80 · **High-demand under $2,500:** 49
+**Public extract:** 1,000 rows · **Live catalog:** 22,179 domains · **Median ask:** $255.61 · **High-demand under $2,500:** 114
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/cv`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| water.cv     | premium   | $265.60   | $80.33        | high           | medium | 5      | namesilo  |
-| message.cv   | premium   | $1,309.75 | $9.75         | high           | low    | 7      | namecheap |
-| bread.cv     | premium   | $265.60   | $80.33        | high           | low    | 5      | namesilo  |
-| aboulic.cv   | available | $9.99     | $9.99         | medium         | low    | 7      | namesilo  |
-| athletics.cv | resell    | $14.98    | —             | high           | medium | 9      | Dynadot   |
-| and.cv       | premium   | $1,339.98 | $80.33        | high           | medium | 3      | namesilo  |
-| abroach.cv   | available | $9.99     | $9.99         | high           | low    | 7      | namesilo  |
-| morning.cv   | resell    | —         | —             | high           | low    | 7      | Dynadot   |
-| aug.cv       | premium   | $2,609.75 | $87.75        | high           | low    | 3      | namecheap |
-| abusive.cv   | available | $9.99     | $9.99         | medium         | low    | 7      | namesilo  |
-| corridor.cv  | resell    | —         | —             | high           | low    | 8      | Dynadot   |
-| bag.cv       | premium   | $2,609.75 | $87.75        | high           | low    | 3      | namecheap |
-| acinose.cv   | available | $9.99     | $9.99         | medium         | low    | 7      | namesilo  |
-| hangout.cv   | resell    | —         | —             | high           | low    | 8      | Dynadot   |
-| bid.cv       | premium   | $1,339.98 | $80.33        | high           | low    | 3      | namesilo  |
-| adaxial.cv   | available | $9.99     | $9.99         | medium         | low    | 7      | namesilo  |
-| bra.cv       | premium   | $1,339.98 | $80.33        | high           | low    | 3      | namesilo  |
-| aeolian.cv   | available | $9.99     | $9.99         | medium         | low    | 7      | namesilo  |
-| cot.cv       | premium   | $1,339.98 | $80.33        | high           | low    | 3      | namesilo  |
-| affixal.cv   | available | $9.99     | $9.99         | medium         | low    | 7      | namesilo  |
+| community.cv | premium   | $649.60   | $80.33        | high           | medium | 9      | namesilo  |
+| soul.cv      | premium   | $1,339.98 | $80.33        | high           | medium | 4      | namesilo  |
+| think.cv     | premium   | $269.75   | $87.75        | high           | medium | 5      | namecheap |
+| time.cv      | premium   | $1,309.75 | $87.75        | high           | medium | 4      | namecheap |
+| safety.cv    | premium   | $137.60   | $8.85         | high           | low    | 6      | namesilo  |
+| structure.cv | available | $9.99     | $9.99         | high           | low    | 9      | namesilo  |
+| half.cv      | premium   | $1,309.75 | $87.75        | high           | low    | 4      | namecheap |
+| counter.cv   | premium   | $1,339.98 | $8.85         | high           | low    | 7      | namesilo  |
+| remedial.cv  | available | $9.99     | $9.99         | high           | low    | 8      | namesilo  |
+| nature.cv    | premium   | $1,309.75 | $9.75         | high           | low    | 6      | namecheap |
+| immediate.cv | available | $9.99     | $9.99         | high           | low    | 9      | namesilo  |
+| design.cv    | resell    | —         | —             | high           | medium | 6      | hello.cv  |
+| debate.cv    | premium   | $137.60   | $8.85         | high           | low    | 6      | namesilo  |
+| planned.cv   | available | $9.99     | $9.99         | high           | low    | 7      | namesilo  |
+| gray.cv      | premium   | $1,339.98 | $80.33        | high           | low    | 4      | namesilo  |
+| searching.cv | premium   | $137.60   | $8.85         | high           | low    | 9      | namesilo  |
+| enliven.cv   | available | $9.99     | $9.99         | high           | low    | 7      | namesilo  |
+| task.cv      | premium   | $1,339.98 | $80.33        | high           | low    | 4      | namesilo  |
+| yellow.cv    | premium   | $137.60   | $8.85         | high           | medium | 6      | namesilo  |
+| mix.cv       | premium   | $2,770.35 | $80.33        | high           | medium | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 13,559 live domains                        |
+| 1,000-row public sample | 22,179 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 49 high-demand names under $2,500          |
+| Basic exported fields   | 114 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CV One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CV One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
