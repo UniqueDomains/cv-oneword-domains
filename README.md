@@ -1,10 +1,10 @@
-# Available .CV One-Word Domains (31,743)
+# Available .CV One-Word Domains (34,061)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C743%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-34%2C061%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cv one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,743 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **34,061 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,743 domains · **Median ask:** $310.66 · **High-demand under $2,500:** 229
+**Public extract:** 1,000 rows · **Live catalog:** 34,061 domains · **Median ask:** $319.05 · **High-demand under $2,500:** 248
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/cv`
 **Best for:** founders, investors, studios
 
@@ -78,11 +78,11 @@ print(df.head())
 | bag.cv          | premium   | $2,609.75 | $87.75        | high           | low    | 3      | namecheap |
 | abroach.cv      | available | $9.99     | $9.99         | high           | low    | 7      | namesilo  |
 | bam.cv          | premium   | $2,609.75 | $87.75        | high           | low    | 3      | namecheap |
-| acerose.cv      | available | $9.99     | $9.99         | medium         | low    | 7      | namesilo  |
-| bbc.cv          | premium   | $2,770.35 | $80.33        | high           | medium | 3      | namesilo  |
 | affixed.cv      | available | $9.99     | $9.99         | medium         | low    | 7      | namesilo  |
-| bia.cv          | premium   | $2,770.35 | $80.33        | medium         | low    | 3      | namesilo  |
+| bbc.cv          | premium   | $2,770.35 | $80.33        | high           | medium | 3      | namesilo  |
 | airhead.cv      | available | $9.99     | $9.99         | high           | low    | 7      | namesilo  |
+| bia.cv          | premium   | $2,770.35 | $80.33        | medium         | low    | 3      | namesilo  |
+| airport.cv      | available | $7.98     | $7.98         | high           | low    | 7      | spaceship |
 | blm.cv          | premium   | $2,770.35 | $80.33        | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,743 live domains                        |
+| 1,000-row public sample | 34,061 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 229 high-demand names under $2,500         |
+| Basic exported fields   | 248 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CV One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CV One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
